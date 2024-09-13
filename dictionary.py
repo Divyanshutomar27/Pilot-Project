@@ -1,10 +1,10 @@
-tel = {'jack': 4098, 'sape': 4139}
+# tel = {'jack': 4098, 'sape': 4139}
 
-tel['stree2'] = 5000
+# tel['stree2'] = 5000
 
-print(tel['stree2'])
+# print(tel['stree2'])
 
-print(list(tel))
+# print(list(tel))
 
 ###########################################
 
